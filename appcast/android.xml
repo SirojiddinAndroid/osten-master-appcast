@@ -5,18 +5,18 @@
     <description>Android update feed for Upgrader</description>
 
     <item>
-      <title>Version 0.0.4</title>
+      <title>Version 0.0.3</title>
       <description><![CDATA[
 - Bug fixes
 - Performance improvements
       ]]></description>
-      <pubDate>Tue, 2 June 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 9 June 2026 00:00:00 +0000</pubDate>
 
       <enclosure
         url="https://play.google.com/store/apps/details?id=artelsupport.com.ostenmaster"
         sparkle:os="android"
-        sparkle:version="0.0.4"
-        sparkle:shortVersionString="0.0.4" />
+        sparkle:version="0.0.3"
+        sparkle:shortVersionString="0.0.3" />
     </item>
   </channel>
 </rss>
